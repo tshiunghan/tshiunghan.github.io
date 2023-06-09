@@ -10,7 +10,7 @@ A website has always been a sign of independence for me, like an actual signboar
 
 What if we could get it just right without having to jump through all those hoops? This website isn't "just right" quite yet, but right off the bat it's closer than any of those other websites will ever be. So grab a chair, kick off your shoes.
 
-Make yourself at home.
+Make yourself at home. Changing a thing to check committing to remote repository.
 
 ** Teaching
 
