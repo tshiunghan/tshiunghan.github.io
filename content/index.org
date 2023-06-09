@@ -1,4 +1,4 @@
-#+title:
+#+title: This is new
 
 * From scratch
 
