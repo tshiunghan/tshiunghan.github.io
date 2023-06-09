@@ -1,7 +1,0 @@
-#+title: Teaching
-
-Heya, it's my teaching page.
-
-* Title header
-
-First things first, this is a draft.
